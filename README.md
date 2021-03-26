@@ -14,7 +14,7 @@ Initial State
 ![Screenshot](screenshots/initial_state.png)
 
 Solving State
-![Screenshot](screenshots/solvin_state.png)
+![Screenshot](screenshots/solving_state.png)
 
 Final State
 ![Screenshot](screenshots/solved_state.png)
