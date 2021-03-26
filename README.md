@@ -8,7 +8,7 @@ To play sudoku, click a box and hit a number from 1-9 on your keyboard to fill i
 
 For autosolving, press Enter key without entering values and visualize the process.
 
-   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Screenshots
 
 Initial State
 ![Screenshot](screenshots/initial_state.png)
